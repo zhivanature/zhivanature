@@ -237,7 +237,7 @@ window.CONTENT = {
     hours: "Пон–Пет, 9:00–17:00",
     /* профили в социалните мрежи – когато ги има, поставете адреса в url, напр. url: "https://www.instagram.com/..." */
     social: [
-      { name: "Facebook",  url: "" },
+      { name: "Facebook",  url: "https://www.facebook.com/profile.php?id=61596487234886" },
       { name: "Instagram", url: "" },
       { name: "TikTok",    url: "" }
     ]
